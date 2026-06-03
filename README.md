@@ -1,9 +1,10 @@
-🚀 **Data Analyst | Python Specialist**  
+# 🚀 Data Analyst | Python Specialist
+### 🧠 Currently Expanding into Data Science & Deep Learning
 📍 São Paulo, Brazil
 
-I turn messy data into clear decisions. Specialized in **Python automation**, 
-**SQL optimization**, and **visual storytelling** with dashboards that actually 
-get used.
+I turn messy data into clear decisions. Specialized in Python automation, SQL optimization, and visual storytelling with dashboards that actually get used. 
+
+Currently deepening my expertise in Advanced Data Science, focusing on time series forecasting and predictive modeling with neural networks (LSTM).
 
 **Recent impact:**  
 ✅ Automated 15h/week of manual reporting → Python + Power BI  
