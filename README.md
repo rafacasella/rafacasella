@@ -68,6 +68,7 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 **Impact:** Stealth real-time pipeline to monitor geopolitical mentions  
 🔗 [View Project](https://github.com/rafacasella/Portifolio_Ciencia_Dados/tree/main/Web_Scapping_TruthSocial) | Playwright, Urllib, Asyncio
 
+
 ## 👨‍💻 About Me
 
 Beyond code and data, I'm passionate about:
@@ -76,6 +77,9 @@ Beyond code and data, I'm passionate about:
 - 🌍 Studying macroeconomic trends and global financial markets
 
 When I'm not optimizing models, I'm optimizing time with my family.
+
+[![Rafael's GitHub Stats](https://vercel.app)](https://github.com)
+[![Top Langs](https://vercel.app)](https://github.com)
 
 ## 📩 Contact
 *   📧 **Email:** rafacasella@gmail.com
