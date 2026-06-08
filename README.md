@@ -78,13 +78,6 @@ Beyond code and data, I'm passionate about:
 
 When I'm not optimizing models, I'm optimizing time with my family.
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Power BI" />
-  <img src="https://shields.io" alt="Streamlit" />
-</p>
-
 ## 📩 Contact
 *   📧 **Email:** rafacasella@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/rafael-casella-490457368/](https://linkedin.com)
