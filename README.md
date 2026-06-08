@@ -85,6 +85,7 @@ When I'm not optimizing models, I'm optimizing time with my family.
 </p>
 
 
+
 ## 📩 Contact
 *   📧 **Email:** rafacasella@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/rafael-casella-490457368/](https://linkedin.com)
