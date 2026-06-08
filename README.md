@@ -77,8 +77,7 @@ Beyond code and data, I'm passionate about:
 
 When I'm not optimizing models, I'm optimizing time with my family.
 
-## Contact
-
-- 📧 Email: rafacasella@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rafael-casella-490457368/](https://www.linkedin.com/in/rafael-casella-490457368/)  
-- 🌐 Portfolio: Coming soon (meanwhile, check my pinned repos)
+## 📩 Contact
+*   📧 **Email:** rafacasella@gmail.com
+*   💼 **LinkedIn:** [linkedin.com/in/rafael-casella-490457368/](https://linkedin.com)
+*   🌐 **Portfolio:** Check my pinned repositories above!
