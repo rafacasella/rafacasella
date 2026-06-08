@@ -14,7 +14,11 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 💼 **Looking for opportunities in:** Data Science, ML Engineering, Business Intelligence  
 📩 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rafael-casella-490457368/) | rafacasella@gmail.com
 ---
+## 🎓 Education
 
+*   **B.S. in Computer Engineering** 
+*   **Postgraduate in Data Science, Machine Learning & AI** — *In Progress*
+---
 ## 💡 How I Work
 
 **From Raw Data to Business Action**
