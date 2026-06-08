@@ -54,7 +54,7 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 **Problem:** Manual Excel reports taking 3h daily  
 **Solution:** Python ETL + Streamlit Framework  
 **Impact:** 15h/week saved, real-time data instead of daily  
-🔗 [View Project](https://kpis4cfo.streamlit.app/) | Python, Pandas, StreamLit
+🔗 [View Project](https://kpi4cfo.streamlit.app/) | Python, Pandas, StreamLit
 
 ### 🤖 Customer Churn Predictor
 **Problem:** High monthly churn with no early warning system  
