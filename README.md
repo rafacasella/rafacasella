@@ -4,7 +4,7 @@
 
 I turn messy data into clear decisions. Specialized in Python automation, SQL querying, and visual storytelling with dashboards that actually get used. 
 
-Currently deepening my expertise in Advanced Data Science, focusing on time series forecasting and predictive modeling with neural networks.
+Currently deepening my expertise in Advanced Data Science, focusing on time-series forecasting and predictive modeling with neural networks.
 
 **Recent impact:**  
 ✅ Automated 15h/week of manual reporting → Python + SQL  
@@ -31,7 +31,7 @@ Currently deepening my expertise in Advanced Data Science, focusing on time seri
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Advanced Analytics
-![Statsmodels](https://img.shields.io/badge/Statsmodels-D65F5F?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-D65F5F?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 <br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
  
@@ -51,12 +51,12 @@ Currently deepening my expertise in Advanced Data Science, focusing on time seri
 
 ### 🤖 Customer Churn Predictor
 **Problem:** 39% monthly churn, no early warning system  
-**Solution:** Logistic regression model with 82,65% accuracy  
+**Solution:** Logistic regression model with 82.65% accuracy  
 **Impact:** Retention team now contacts at-risk customers proactively  
 🔗 [View Project](https://github.com/rafacasella/Portifolio_Analise_Dados/tree/main/Churn_Analysis) | StatsModels, PostgreSQL, Seaborn
 
 ### 🔍 Web Scraping Monitor
-**Problem:** Statements impacting the global economy  
+**Problem:** Difficult manual tracking of statements impacting the global economy  
 **Solution:** Playwright scraper  
 **Impact:** Stealth real-time pipeline to monitor geopolitical mentions  
 🔗 [View Project](https://github.com/rafacasella/Portifolio_Ciencia_Dados/tree/main/Web_Scapping_TruthSocial) | 🐍 Playwright, Urllib, Asyncio
