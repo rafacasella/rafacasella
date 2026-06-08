@@ -7,7 +7,7 @@ I turn messy data into clear decisions. Specialized in Python automation, SQL op
 Currently deepening my expertise in Advanced Data Science, focusing on time series forecasting and predictive modeling with neural networks (LSTM).
 
 **Recent impact:**  
-✅ Automated 15h/week of manual reporting (KPI) → Python + SQL  
+✅ Automated 15h/week of manual reporting → Python + SQL  
 ✅ Built predictive model that reduced customer churn by 39%  
 ✅ Automated pipeline for real-time geopolitical and economic monitoring
 ---
