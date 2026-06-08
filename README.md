@@ -79,11 +79,8 @@ Beyond code and data, I'm passionate about:
 When I'm not optimizing models, I'm optimizing time with my family.
 
 <p align="left">
-  <img src="https://vercel.app" alt="Rafael's GitHub Stats" height="180" />
-  <br><br>
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
+  <img src="https://herokuapp.com" alt="Rafael's GitHub Streak" height="180" />
 </p>
-
 
 
 ## 📩 Contact
