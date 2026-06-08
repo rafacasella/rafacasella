@@ -1,6 +1,6 @@
-# 🚀 Data Analyst | Python Specialist
-### 🧠 Currently Expanding into Data Science & Deep Learning
-📍 São Paulo, Brazil
+# 🚀 Rafael Casella — Data Scientist & Automation Specialist
+### 🧠 Transforming Raw Data into Predictive Intelligence | Python • SQL • Deep Learning
+📍 São Paulo, Brazil | 🌐 Open to Remote Opportunities
 
 I turn messy data into clear decisions. Specialized in Python automation, SQL querying, and visual storytelling with dashboards that actually get used. 
 
@@ -10,6 +10,9 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 ✅ Automated 15h/week of manual reporting → Python + SQL  
 ✅ Built predictive model that reduced customer churn by 39%  
 ✅ Automated pipeline for real-time geopolitical and economic monitoring
+
+💼 **Looking for opportunities in:** Data Science, ML Engineering, Business Intelligence  
+📩 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rafael-casella-490457368/) | rafacasella@gmail.com
 ---
 
 ## 💡 How I Work
@@ -41,6 +44,7 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 ### Automation & Tools
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
 
+
 ## 🚀 Featured Projects
 
 ### 📊 Financial Dashboard Automation
@@ -59,7 +63,16 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 **Problem:** Difficult manual tracking of statements impacting the global economy  
 **Solution:** Playwright scraper  
 **Impact:** Stealth real-time pipeline to monitor geopolitical mentions  
-🔗 [View Project](https://github.com/rafacasella/Portifolio_Ciencia_Dados/tree/main/Web_Scapping_TruthSocial) | 🐍 Playwright, Urllib, Asyncio
+🔗 [View Project](https://github.com/rafacasella/Portifolio_Ciencia_Dados/tree/main/Web_Scapping_TruthSocial) | Playwright, Urllib, Asyncio
+
+## 👨‍💻 About Me
+
+Beyond code and data, I'm passionate about:
+- 📊 Analyzing financial markets and managing my investment portfolio
+- 🤖 Exploring the intersection of AI and economics
+- 🌍 Studying macroeconomic trends and global financial markets
+
+When I'm not coding, you'll find me playing with my kids and spending time with my family.
 
 ## Contact
 
