@@ -1,15 +1,15 @@
 # 🚀 Rafael Casella — Data Scientist & Automation Specialist
-### 🧠 Transforming Raw Data into Predictive Intelligence | Python • SQL • Deep Learning
+### 🧠 Transforming Raw Data into Predictive Intelligence | Python • SQL • Machine Learning
 📍 São Paulo, Brazil | 🌐 Open to Remote Opportunities
 
-I turn messy data into clear decisions. Specialized in Python automation, SQL querying, and visual storytelling with dashboards that actually get used. 
+I turn messy data into clear business decisions. Specialized in Python automation, SQL querying, and visual storytelling with dashboards that actually get used. 
 
 Currently deepening my expertise in Advanced Data Science, focusing on time-series forecasting and predictive modeling with neural networks.
 
 **Recent impact:**  
-✅ Automated 15h/week of manual reporting → Python + SQL  
-✅ Built predictive model that reduced customer churn by 39%  
-✅ Automated pipeline for real-time geopolitical and economic monitoring
+✅ Automated 15h/week of CFO reporting → Python + SQL + Streamlit  
+✅ Deployed churn predictor with 82.65% accuracy → Reducing customer loss      
+✅ Built real-time geopolitical monitoring system → Playwright + Async Python
 
 💼 **Looking for opportunities in:** Data Science, ML Engineering, Business Intelligence  
 📩 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rafael-casella-490457368/) | rafacasella@gmail.com
@@ -33,17 +33,16 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 ### Core Skills (Daily Use)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Advanced Analytics
-![Statsmodels](https://img.shields.io/badge/Statsmodels-D65F5F?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+### Data Visualization & Automation
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
  
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-### Automation & Tools
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
-
+### Machine Learning & Deep Learning
+   
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-D65F5F?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -54,9 +53,9 @@ Currently deepening my expertise in Advanced Data Science, focusing on time-seri
 🔗 [View Project](https://kpis4cfo.streamlit.app/) | Python, Pandas, StreamLit
 
 ### 🤖 Customer Churn Predictor
-**Problem:** 39% monthly churn, no early warning system  
+**Problem:** High monthly churn with no early warning system  
 **Solution:** Logistic regression model with 82.65% accuracy  
-**Impact:** Retention team now contacts at-risk customers proactively  
+**Impact:** Retention team now contacts at-risk customers proactively, improving retention rates  
 🔗 [View Project](https://github.com/rafacasella/Portifolio_Analise_Dados/tree/main/Churn_Analysis) | StatsModels, PostgreSQL, Seaborn
 
 ### 🔍 Web Scraping Monitor
@@ -72,7 +71,7 @@ Beyond code and data, I'm passionate about:
 - 🤖 Exploring the intersection of AI and economics
 - 🌍 Studying macroeconomic trends and global financial markets
 
-When I'm not coding, you'll find me playing with my kids and spending time with my family.
+When I'm not optimizing models, I'm optimizing time with my family.
 
 ## Contact
 
