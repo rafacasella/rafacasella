@@ -7,9 +7,9 @@ I turn messy data into clear decisions. Specialized in Python automation, SQL op
 Currently deepening my expertise in Advanced Data Science, focusing on time series forecasting and predictive modeling with neural networks (LSTM).
 
 **Recent impact:**  
-✅ Automated 15h/week of manual reporting → Python + Power BI  
-✅ Built predictive model that reduced customer churn by 18%  
-✅ Optimized SQL queries from 45s to 2s (20x faster)
+✅ Automated 15h/week of manual reporting (KPI) → Python + SQL  
+✅ Built predictive model that reduced customer churn by 39%  
+✅ Automated pipeline for real-time geopolitical and economic monitoring
 ---
 
 ## 💡 How I Work
@@ -28,36 +28,38 @@ Currently deepening my expertise in Advanced Data Science, focusing on time seri
 ## 🛠️ Tech Stack
 
 ### Core Skills (Daily Use)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Advanced Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-D65F5F?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
+![Statsmodels](https://img.shields.io/badge/Statsmodels-D65F5F?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+ 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Automation & Tools
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
 
 ## 🚀 Featured Projects
 
-### 📊 Sales Dashboard Automation
+### 📊 Financial Dashboard Automation
 **Problem:** Manual Excel reports taking 3h daily  
-**Solution:** Python ETL + Power BI automated pipeline  
+**Solution:** Python ETL + Streamlit Framework  
 **Impact:** 15h/week saved, real-time data instead of daily  
-🔗 [View Project](link) | 🐍 Python, Pandas, Power BI
+🔗 [View Project](https://kpis4cfo.streamlit.app/) | Python, Pandas, StreamLit
 
 ### 🤖 Customer Churn Predictor
-**Problem:** 25% monthly churn, no early warning system  
-**Solution:** Logistic regression model with 82% accuracy  
+**Problem:** 39% monthly churn, no early warning system  
+**Solution:** Logistic regression model with 82,65% accuracy  
 **Impact:** Retention team now contacts at-risk customers proactively  
-🔗 [View Project](link) | 🐍 Scikit-learn, SQL, Streamlit
+🔗 [View Project](https://github.com/rafacasella/Portifolio_Analise_Dados/tree/main/Churn_Analysis) | StatsModels, PostgreSQL, Seaborn
 
 ### 🔍 Web Scraping Monitor
-**Problem:** Competitor pricing changes undetected  
-**Solution:** Playwright scraper + email alerts  
-**Impact:** 3 price adjustments in Q1 based on insights  
-🔗 [View Project](link) | 🐍 Playwright, PostgreSQL
+**Problem:** Statements impacting the global economy  
+**Solution:** Playwright scraper  
+**Impact:** Stealth real-time pipeline to monitor geopolitical mentions  
+🔗 [View Project](https://github.com/rafacasella/Portifolio_Ciencia_Dados/tree/main/Web_Scapping_TruthSocial) | 🐍 Playwright, Urllib, Asyncio
 
 ## Contact
 
